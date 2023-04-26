@@ -1,7 +1,0 @@
-cabecera...
-cuerpo..
-logo..
-principal..
-secciones..
-articulos..
-pie (footer)
